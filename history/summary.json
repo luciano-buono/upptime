@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 258,
-    "timeWeek": 107,
+    "timeDay": 88,
+    "timeWeek": 103,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 966,
-    "timeWeek": 574,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 623,
+    "timeDay": 772,
+    "timeWeek": 610,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 373,
-    "timeWeek": 291,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 357,
+    "timeDay": 428,
+    "timeWeek": 320,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/client.nasini.com.ar",
     "slug": "higyrus-prod",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 883,
-    "timeDay": 438,
-    "timeWeek": 281,
-    "timeMonth": 883,
-    "timeYear": 883,
-    "dailyMinutesDown": {
-      "2022-03-02": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 867,
+    "timeDay": 342,
+    "timeWeek": 312,
+    "timeMonth": 867,
+    "timeYear": 867,
+    "dailyMinutesDown": {}
   }
 ]
