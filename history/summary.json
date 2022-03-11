@@ -58,17 +58,19 @@
     "url": "https://client.nasini.com.ar",
     "icon": "https://favicons.githubusercontent.com/client.nasini.com.ar",
     "slug": "higyrus-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 465,
-    "timeWeek": 359,
+    "time": 773,
+    "timeDay": 675,
+    "timeWeek": 424,
     "timeMonth": 896,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "timeYear": 773,
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   }
 ]
