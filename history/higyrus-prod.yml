@@ -1,7 +1,7 @@
 url: https://client.nasini.com.ar
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2022-11-14T23:13:02.225Z
+status: down
+code: 502
+responseTime: 166
+lastUpdated: 2022-11-15T09:00:06.610Z
 startTime: Fri Feb 04 2022 14:40:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
