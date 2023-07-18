@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 212,
-    "timeWeek": 143,
+    "timeDay": 205,
+    "timeWeek": 141,
     "timeMonth": 119,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2023-07-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nasini",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 595,
-    "timeDay": 320,
-    "timeWeek": 507,
-    "timeMonth": 499,
-    "timeYear": 579,
+    "time": 594,
+    "timeDay": 218,
+    "timeWeek": 438,
+    "timeMonth": 492,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2022-11-24": 62,
       "2022-09-09": 16
@@ -51,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 394,
-    "timeWeek": 402,
-    "timeMonth": 347,
+    "time": 335,
+    "timeDay": 167,
+    "timeWeek": 365,
+    "timeMonth": 342,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-06-16": 15
@@ -72,9 +70,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.44%",
     "time": 1271,
-    "timeDay": 377,
-    "timeWeek": 307,
-    "timeMonth": 1026,
+    "timeDay": 44,
+    "timeWeek": 234,
+    "timeMonth": 1019,
     "timeYear": 1357,
     "dailyMinutesDown": {
       "2023-07-05": 20,
