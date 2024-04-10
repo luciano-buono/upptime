@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 81,
-    "timeWeek": 80,
-    "timeMonth": 117,
+    "timeDay": 122,
+    "timeWeek": 87,
+    "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-08-05": 25,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 272,
-    "timeWeek": 474,
-    "timeMonth": 582,
+    "timeDay": 355,
+    "timeWeek": 416,
+    "timeMonth": 573,
     "timeYear": 596,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 341,
-    "timeWeek": 352,
-    "timeMonth": 334,
+    "time": 337,
+    "timeDay": 291,
+    "timeWeek": 364,
+    "timeMonth": 332,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2023-06-16": 15
@@ -65,17 +65,16 @@
     "slug": "higyrus-prod",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 1294,
-    "timeDay": 592,
-    "timeWeek": 349,
-    "timeMonth": 651,
+    "timeDay": 614,
+    "timeWeek": 353,
+    "timeMonth": 646,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2024-04-09": 7,
       "2024-03-08": 16,
       "2024-02-08": 15,
       "2024-02-05": 55,
@@ -95,8 +94,7 @@
       "2023-06-15": 93,
       "2023-06-14": 50,
       "2023-06-09": 478,
-      "2023-04-12": 556,
-      "2023-04-11": 313
+      "2023-04-12": 556
     }
   }
 ]
