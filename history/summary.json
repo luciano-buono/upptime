@@ -26,19 +26,19 @@
     "url": "https://nasini.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nasini.com.ar.ico",
     "slug": "nasini",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 513,
-    "timeWeek": 540,
-    "timeMonth": 631,
-    "timeYear": 634,
+    "timeDay": 442,
+    "timeWeek": 513,
+    "timeMonth": 621,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-06-27": 30
+      "2024-06-27": 40
     }
   },
   {
