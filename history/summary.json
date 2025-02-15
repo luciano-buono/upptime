@@ -25,7 +25,7 @@
     "url": "https://nasini.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nasini.com.ar.ico",
     "slug": "nasini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
@@ -37,6 +37,7 @@
     "timeMonth": 578,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2025-02-15": 0,
       "2025-02-13": 44,
       "2025-02-09": 16,
       "2025-02-04": 15,
