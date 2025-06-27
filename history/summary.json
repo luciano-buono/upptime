@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 94,
-    "timeWeek": 90,
+    "timeDay": 81,
+    "timeWeek": 89,
     "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -27,14 +27,14 @@
     "slug": "nasini",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "50.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.58%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "99.66%",
-    "time": 615,
-    "timeDay": 803,
-    "timeWeek": 685,
-    "timeMonth": 808,
+    "time": 616,
+    "timeDay": 514,
+    "timeWeek": 637,
+    "timeMonth": 806,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-06-25": 720,
@@ -61,8 +61,7 @@
       "2024-10-11": 16,
       "2024-08-30": 35,
       "2024-08-23": 17,
-      "2024-07-06": 20,
-      "2024-06-27": 30
+      "2024-07-06": 20
     }
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 148,
-    "timeWeek": 325,
-    "timeMonth": 391,
+    "timeDay": 274,
+    "timeWeek": 299,
+    "timeMonth": 392,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -95,10 +94,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.29%",
     "time": 865,
-    "timeDay": 200,
-    "timeWeek": 278,
-    "timeMonth": 547,
-    "timeYear": 832,
+    "timeDay": 154,
+    "timeWeek": 232,
+    "timeMonth": 545,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2025-06-05": 27,
       "2025-02-25": 185,
