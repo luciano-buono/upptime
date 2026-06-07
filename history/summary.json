@@ -28,17 +28,17 @@
     "url": "https://nasini.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nasini.com.ar.ico",
     "slug": "nasini",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.25%",
     "time": 789,
-    "timeDay": 435,
-    "timeWeek": 525,
-    "timeMonth": 519,
-    "timeYear": 841,
+    "timeDay": 511,
+    "timeWeek": 533,
+    "timeMonth": 521,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2025-06-21": 27,
       "2025-06-25": 720,
@@ -61,7 +61,7 @@
       "2026-02-13": 970,
       "2026-02-12": 386,
       "2026-03-20": 578,
-      "2026-06-07": 5
+      "2026-06-07": 104
     }
   },
   {
@@ -87,16 +87,16 @@
     "url": "https://client.nasini.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/client.nasini.com.ar.ico",
     "slug": "higyrus-prod",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
-    "time": 642,
-    "timeDay": 218,
-    "timeWeek": 312,
-    "timeMonth": 269,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.19%",
+    "time": 643,
+    "timeDay": 306,
+    "timeWeek": 322,
+    "timeMonth": 273,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2025-07-25": 146,
@@ -112,7 +112,7 @@
       "2025-12-30": 22,
       "2026-02-19": 210,
       "2026-04-18": 71,
-      "2026-06-07": 0
+      "2026-06-07": 99
     }
   }
 ]
