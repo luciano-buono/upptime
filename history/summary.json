@@ -74,9 +74,9 @@
     "url": "https://client.nasini.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/client.nasini.com.ar.ico",
     "slug": "higyrus-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
@@ -92,7 +92,8 @@
       "2025-12-30": 22,
       "2026-02-19": 210,
       "2026-04-18": 71,
-      "2026-06-07": 99
+      "2026-06-07": 99,
+      "2026-11-09": 0
     }
   }
 ]
